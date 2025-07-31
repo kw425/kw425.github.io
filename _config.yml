@@ -1,7 +1,6 @@
 
 title: "Delta425's Learning Blog"
 description: "Check this page out as I keep improving it while I learn"
-theme: minima
-header:
-  image: "/assets/images/Futuristic Robot and Cityscape.jpeg"
+theme: jekyll-theme-cayman
+
 
